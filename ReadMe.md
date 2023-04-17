@@ -7,7 +7,7 @@
 In this project, I am using Python to explore data on bike share systems for three major cities in the US - Chicago, New York, and Washington. I wrote code to import data and answer interesting questions about it by calculating descriptive statistics. I also wrote a script that takes raw input to create an interactive in-device experience to present these stats.
 </ul>
 
-------------------------------------------------------------
+
 ## Data
  - Start Time (e.g., 2017-01-01 00:07:57)
  - End Time (e.g., 2017-01-01 00:20:53)
@@ -20,7 +20,6 @@ The Chicago and New York City files also have the following two columns:
    - Gender
    - Birth Year
 
-------------------------------------------------------------
 
 ## Statistics required
 
@@ -64,7 +63,7 @@ The Chicago and New York City files also have the following two columns:
 - Hist for 
     - Birthdays  
 
-------------------------------------------------------------
+
 ## tools and skills used  
  - descriptive statistics
  - python programming language
@@ -72,7 +71,7 @@ The Chicago and New York City files also have the following two columns:
  - VScode
  - Markdown  
 
-------------------------------------------------------------
+
 ## How to install and use this code?
  - Download the script
  - Download python [Link](https://www.python.org/downloads/) 
